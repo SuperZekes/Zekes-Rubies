@@ -5,7 +5,7 @@ Ruby armor, tools, and blocks!
 
 ## Tools/Weapons
 
-<img src="https://cdn.modrinth.com/data/HG68uMH3/images/e2b8d676e92793234c89210f0f256eb285c18904.gif" alt="tools/weapons" width="200">
+<img src="https://cdn.modrinth.com/data/HG68uMH3/images/f65f9f0a4dc6ad2f1341502ca7b2a846b3b1e5e4.gif" alt="tools/weapons" width="200">
 
 ## Armor
 
