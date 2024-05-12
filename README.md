@@ -11,7 +11,7 @@ Ruby armor, tools, and blocks!
 
 <img src="https://cdn.modrinth.com/data/HG68uMH3/images/21369343e3b15e7727dc35689068edb6f8bade6d.png" alt="Armor" width="200">
 
-# Blocks
+## Blocks
 
 <img
 src="https://cdn.modrinth.com/data/HG68uMH3/images/9a5daa251d9b8cadb05bd9b4f5eedb8ddb404e36.png" alt="Blocks" width="200">
